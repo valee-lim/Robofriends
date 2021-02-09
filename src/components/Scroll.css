@@ -1,5 +1,5 @@
 .scroll {
-	background-color: rgba(0,0,0,.1);
+	background-color: rgba(1,1,1,1);
 	overflow-y: scroll;
 	height: 80vh;
 }
