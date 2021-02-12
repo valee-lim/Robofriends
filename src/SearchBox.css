@@ -1,9 +1,0 @@
-.searchbox {
-	border-radius: 20px;
-	text-align: center;
-}
-
-.searchbox:focus {
-	outline: none;
-	background-color: #8fffd6;
-}
